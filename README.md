@@ -1,2 +1,2 @@
 # Data-Structures-Algorithms
-The main repo to master the Data Structures and Algorithms Topic
+The main repository used to store solved problems and fundamentals of Data Structures & Algorithms.
