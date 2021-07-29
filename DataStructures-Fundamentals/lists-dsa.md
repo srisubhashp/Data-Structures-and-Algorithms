@@ -70,4 +70,13 @@ shoppingList.sort(reverse=True)# sorts in the descending order.
 newList=shoppingList.copy()
 newList2=shoppingList[:] # copying through slicing
 
+#9. Using Reversed() for loop
+for num in reversed(range(N + 1)) :
+    print (num, end = " ")
+
+#10. Another method of reversing a list
+# using reversed() to perform the back iteration
+for num in range(N, -1, -1) :
+    print (num, end = " ")
+
 ```
